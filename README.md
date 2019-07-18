@@ -1,2 +1,2 @@
 # Angular-Project-using-RestApi
-This is a Project complet with server in tyscript and consum it with Angular Client
+This is a Complet project with server in tyscript and FrontEnd part with Angular Client
